@@ -1,0 +1,28 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "header": "Shadow",
+            "body": "Shadow, the magnificent Golden Retriever, is a charming canine companion who exudes an aura of grace and loyalty. With a rich, golden-hued coat that glimmers in the sunlight, Shadow's appearance captivates all who lay eyes upon him. At the age of five, he possesses a vibrant energy and youthful exuberance that blend harmoniously with his gentle and friendly nature.Standing proudly at an average height, Shadow's well-proportioned physique showcases the strength and agility inherent to his breed. His deep, expressive brown eyes radiate warmth and intelligence, hinting at a soul that is as kind as it is perceptive. A neatly sculpted face adorned with a soft, slightly feathered muzzle adds an endearing touch to his overall charm.",
+            "image": "/../../../public/internal/news1.jpeg"
+        },
+        {
+            "id": 2,
+            "header": "Cooper",
+            "body": "Cooper, a delightful Golden Retriever, possesses an infectious energy and playful spirit that embodies the essence of youth. At the age of two, he exudes a sense of enthusiasm and curiosity that captivates those around him. With his golden fur radiating a warm glow, Cooper showcases the quintessential beauty and charm of his breed.Standing at an average height, Cooper displays a well-proportioned physique that hints at his athletic abilities and boundless energy. His expressive, almond-shaped eyes, filled with warmth and intelligence, invite others to engage in the joyous adventures he eagerly embarks upon. Beneath his adorable button nose, a set of strong jaws and a friendly smile add a touch of charisma to his overall appearance.",
+            "image": "/../../../public/internal/news2.jpeg"
+        },
+        {
+            "id": 3,
+            "header": "Felix",
+            "body": "Felix, a captivating American Shorthair cat, exudes an air of elegance and sophistication. At four years old, he possesses a quiet confidence that is complemented by his sleek and agile physique. With a coat that showcases a medley of rich colors and patterns, Felix effortlessly captivates the attention of anyone fortunate enough to encounter him.Standing at an average size, Felix's body is compact and well-muscled, reflecting his innate agility and grace. His almond-shaped eyes, mesmerizing in their golden hue, hint at a sharp intellect and a keen sense of awareness. Set within a face adorned with delicate features and a perfectly proportioned nose, Felix's enigmatic gaze adds an element of mystery to his overall allure.",
+            "image": "/../../../public/internal/news3.jpeg"
+        },
+        {
+            "id": 4,
+            "header": "Sandy",
+            "body": "Sandy, the adorable American Fuzzy Lop rabbit, radiates an undeniable charm and gentle demeanor. At the age of ten, he carries himself with a wisdom and grace that only comes with a decade of experience. With a plush, velvety coat that demands attention, Sandy showcases the unique beauty and endearing qualities of his breed.Standing at an average size, Sandy's compact body is adorned with a soft, dense fur that resembles a cloud of spun gold. His expressive eyes, framed by long, delicate ears, glisten with a hint of mischief and wisdom. The endearing features of his face, including a button-like nose and cheeks that invite gentle strokes, add to his irresistible appeal.",
+            "image": "/../../../public/internal/news4.jpeg"
+        }
+    ]
+}
