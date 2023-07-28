@@ -1,12 +1,12 @@
 {
-    "baseUrl": "https://api.asgardeo.io/t/shalkiwenushika",
-    "clientID": "cLhxfyef0tHaNQwIyAVir6b72uMa",
+    "baseUrl": "",
+    "clientID": "",
     "scope": [
         "openid",
         "profile",
         "email"
     ],
-    "signInRedirectURL": "http://localhost:4173",
-    "signOutRedirectURL": "http://localhost:4173",
+    "signInRedirectURL": "",
+    "signOutRedirectURL": "",
     "resourceServerURL": "<API-ENDPOINT-OF-PET-MGT-SERVICE>"
 }
