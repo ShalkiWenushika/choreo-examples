@@ -21,7 +21,7 @@ ENV HTTPS=false
 RUN npm install
 
 # Set ownership for /home/app/node_modules/.vite/
-RUN chown -R ${USER_ID}:${USER_GROUP_ID} /home/app/node_modules/.vite/
+RUN chown -R ${USER_ID}:${USER_GROUP_ID} /home/app
 
 USER 10001
 
