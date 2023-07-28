@@ -18,11 +18,8 @@ ENV HTTPS=false
 
 # Install dependencies
 # RUN npm install --save --legacy-peer-deps 
+WORKDIR ${USER_HOME}/pet-management-webapp
 RUN npm install
-
-# Set ownership for /home/app/node_modules/.vite/
-RUN mkdir -p /home/app/node_modules/.vite \
-    && chown -R ${USER_ID}:${USER_GROUP_ID} /home/app/node_modules/.vite
 
 USER 10001
 
